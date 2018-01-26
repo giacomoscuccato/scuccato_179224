@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/trentose2/20182601/issues"
   },
+      "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jest": "^22.0.4",
+    "node-fetch": "^1.7.3",
+    "uuid-v4": "^0.1.0"
+  }
+
   "homepage": "https://github.com/trentose2/20182601#readme"
+    
 }
